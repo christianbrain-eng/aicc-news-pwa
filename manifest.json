@@ -1,0 +1,30 @@
+{
+  "name": "NEWS - AICC 브리핑",
+  "short_name": "NEWS",
+  "description": "AICC 경쟁사 동향, 시장 뉴스, 기술 트렌드를 확인하고 보고용 요약으로 복사하는 모바일 PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#1f4fd8",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
